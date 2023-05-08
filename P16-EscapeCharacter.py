@@ -6,7 +6,12 @@ print("Hello \'Everyone\'")
 print("Hello \"Everyone\"")
 
 # 3. \\ Backslash
+print("Hello \\Everyone\\")
 
 # 4. \n NewLine
+print("\nHello\nWorld ")
 
 # 5. \t Tab
+print("Hello\tWorld")
+
+print(7//2)
